@@ -5,11 +5,6 @@ Interested in data analytics engineering, backend development, and quality assur
 📧 How to reach me: fajriyantifaj@gmail.com  
 🌐 My portfolio: [Portfolio](https://github.com/fajri-yanti/portofolio)
 
-### Fun Facts:
-- I'm a big fan of databases.
-- I enjoy using dark mode themes on VSCode.
-- Passionate about ETL processes and database management.
-- Favourite anime: Steins;Gate, k-on, Gintama (will be update soon)
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
