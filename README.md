@@ -30,6 +30,5 @@ An Informatics Engineering graduate interested in backend development, quality a
 
 ## 📊 My Statistics
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=fajri-yanti&show_icons=true&theme=radical) <br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajri-yanti&layout=compact&theme=radical)
 
