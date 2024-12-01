@@ -1,6 +1,6 @@
 # Hi Folks! 👋 I'm Fajri.
 
-An Informatics Engineering graduate interested in backend development, quality assurance, and data analytics engineering. I enjoy working on structured, repetitive tasks and exploring data pipelines.
+Interested in data analytics engineering, backend development, and quality assurance. I enjoy working on structured, repetitive tasks and exploring data pipelines.
 
 📧 How to reach me: fajriyantifaj@gmail.com  
 🌐 My portfolio: [Portfolio Website](https://github.com/fajri-yanti)
@@ -9,7 +9,7 @@ An Informatics Engineering graduate interested in backend development, quality a
 - I'm a big fan of databases.
 - I enjoy using dark mode themes on VSCode.
 - Passionate about ETL processes and database management.
-- favourite anime: Steins;Gate, k-on, Gintama (will be update soon)
+- Favourite anime: Steins;Gate, k-on, Gintama (will be update soon)
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
