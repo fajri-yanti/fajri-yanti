@@ -3,7 +3,7 @@
 Interested in data analytics engineering, backend development, and quality assurance. I enjoy working on structured, repetitive tasks and exploring data pipelines.
 
 📧 How to reach me: fajriyantifaj@gmail.com  
-🌐 My portfolio: [Portfolio Website](https://github.com/fajri-yanti)
+🌐 My portfolio: [Portfolio](https://github.com/fajri-yanti/portofolio)
 
 ### Fun Facts:
 - I'm a big fan of databases.
