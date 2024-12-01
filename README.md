@@ -3,7 +3,7 @@
 An Informatics Engineering graduate interested in backend development, quality assurance, and data analytics engineering. I enjoy working on structured, repetitive tasks and exploring data pipelines.
 
 📧 How to reach me: fajriyantifaj@gmail.com  
-🌐 My portfolio: [Portfolio Website](https://example.com)
+🌐 My portfolio: [Portfolio Website](https://github.com/fajri-yanti)
 
 ### Fun Facts:
 - I'm a big fan of databases.
